@@ -12,7 +12,7 @@ require("lightgbm")
 PARAM <- list()
 PARAM$experimento <- "KA4210"
 
-PARAM$semilla_primigenia <- 500069
+PARAM$semilla_primigenia <- 500009
 
 
 PARAM$input$dataset <- "./datasets/competencia_01_Lag_delta.csv"
