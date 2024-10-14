@@ -1,0 +1,6 @@
+Pasos para ejecutar en la competencia 1:
+1.	En la carpeta competencia_01, ejecutar el script ClaseTernaria.py
+2.	Ejecutar Lag.ipynb
+3.	Con esta semilla 500009, ejecutar el script z422_lightgbm_binaria_BO, colocar el dataset competencia_01_Lag_delta y entrenar en el mes 202103. Seleccionar los hiperparametros que generan la mayor ganancia.
+4.	Ejecutar el script z421_lightgbm_final con semilla 500009 y el dataset competencia_01_Lag_delta, entrenar con el periodo 202104 y predecir el periodo 202406. Usar los hiperparametros del punto anterior.
+5.	Subir el archivo con 11500 envíos a Kaggel, se encuentra exp/KA4210
