@@ -1,0 +1,7 @@
+1. Correr archivo claseternaria: Este archivo crea la clase ternaria para los datos de la competencia 2, adicionalmente, elimina los baja+1
+
+2. Ejecutar archivo 909
+
+3. Ya el archivo 990 tiene las configuraciones encontrada por los diferentes equipos en los experimentos:
+-se cambió el atributo de arbolitos por 24
+-canaritos (ratio = 1, desvio = 0)
