@@ -1,0 +1,3 @@
+1. Se copian las condiciones usadas por la ganadora de la competencia dos que lograba tener modelos estables
+2. A partir de esa configuración, se cambiaban parámetros como: activar o desactivar canaritos, cambiar el drifting por UVA, y de esa manera, configurar 7 modelos diferentes entre si.
+3. Al tener la probabilidad de perdida de los clientes con esos 7 modelos, se hizo un promedio y mediana con corte en 11.000 y 10.500.
